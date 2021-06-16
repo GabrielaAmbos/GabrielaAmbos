@@ -4,7 +4,7 @@
 <div style="padding-left: 40px;" align="left">
   <img style="display: block; margin-left: auto; margin-right: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaAmbos&amp;layout=compact&amp;langs_count=16&amp;theme=dracula" width="422" height="259" align="right" />
   
-<h3 align="left">Connect with me:<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30" align="center" />
+<h3 align="left">Connect with me:  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30" align="center" />
 </div>
 
 <p align="left">
