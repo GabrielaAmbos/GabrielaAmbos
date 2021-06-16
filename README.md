@@ -1,13 +1,13 @@
-### Oiie, bem-vindo ao meu perfil! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="40" />
+### Oiie, bem-vindo ao meu perfil! <img align="center" src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 
 
 <div>
-<h3 align="left">Connect with me:</h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30" />
+<h3 align="left">Connect with me:</h3> <img align="center" src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30" />
 <p align="left">
 <a href="https://linkedin.com/in/gabriela-ambos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriela-ambos/" height="30" width="40" /></a>
 <a href="https://instagram.com/gabrielaambos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielaambos" height="30" width="40" /></a>
 <a href="https://medium.com/@gabrielaambos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gabrielaambos" height="30" width="40" /></a>
-<a href="mailto:gabrielaambos15@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" height="30" width="40"/>
+<a href="mailto:gabrielaambos15@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="30" width="40"/>
 </p>
   
 </div>
