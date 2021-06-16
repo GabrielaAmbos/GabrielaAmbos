@@ -17,7 +17,7 @@
   <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40" height="30" align="center" /> </a>
  </p>
 
-<h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30" align="center"/>
+<h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="30" /> </a> 
   <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress"width="40" height="30" /> </a> 
