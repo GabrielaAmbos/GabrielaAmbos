@@ -1,4 +1,4 @@
-## Oiie, bem-vindo ao meu perfil! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024">
+## Oiie, bem-vindo ao meu perfil! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" align="center">
 
 
 <div style="padding-left: 40px;" align="left">
