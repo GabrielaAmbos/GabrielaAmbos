@@ -29,7 +29,18 @@
   <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="30" /> </a> 
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" /> </a> </p>
 <p align="left">
-  <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="30" /></a>
+  <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="30" /> </a>
+<a href="http://appium.io/" target="_blank"><img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/appium.svg" alt="appium" width="40" height="30" /> </a>
+<a href="https://about.gitlab.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="30" /> </a>
+<a href="https://appcenter.ms/" target="_blank"><img src="https://www.vectorlogo.zone/logos/appcenterms/appcenterms-icon.svg" alt="appcenter" width="40" height="30" /> </a>
+<a href="https://www.jetbrains.com/pt-br/idea/" target="_blank"><img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/intellij-idea.svg" alt="intellij" width="40" height="30" /> </a>
+<a href="https://www.mongodb.com/pt-br/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongobd" width="40" height="30" /> </a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" alt="androidstudio" width="40" height="30" /> </a>
+
+
+
+
+
 </p>
   
 <div>
