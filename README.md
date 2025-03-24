@@ -1,6 +1,8 @@
-## Hi, welcome to my profile! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" align="center">
+## My portfolio as QA <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" align="center">
 
-
+Olá, meu nome é Gabriela Ambos. <br>
+Sou da região metropolitana de Porto Alegre, no Rio Grande do Sul e trabalho a 6 anos como analista de qualidade. <br>
+Já trabalhei em grandes empresas como a Datum (alocada como terceiro para a Renner), Meta e Aquiris (Atual Epic Games). Atualmente, trabalho remotamente para o Grupo Casas Bahia.
 
   
 <h3 align="left">Connect with me:  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30" align="center" />
