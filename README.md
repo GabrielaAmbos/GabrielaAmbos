@@ -4,9 +4,19 @@ Olá, meu nome é Gabriela Ambos <br>
 Sou da região metropolitana de Porto Alegre, no Rio Grande do Sul e trabalho a 6 anos como analista de qualidade. <br>
 Já trabalhei em grandes empresas como a [Datum](https://datumit.com/) (alocada como terceiro para as [Lojas Renner S.A.](https://www.lojasrennersa.com.br/)), [Meta](https://meta.com.br/) e [Aquiris](https://www.aquiris.com.br/) (Atual [Epic Games](https://www.epicgames.com/site/pt-BR/home)). Atualmente, trabalho remotamente para o [Grupo Casas Bahia](https://ri.grupocasasbahia.com.br/).
 
-## Habilidades
+## Habilidades e Ferramentas
 Possuo experiência em análise de requisitos, escrita de cenários de teste em [BDD](https://www.objective.com.br/insights/bdd/), [testes end-to-end](https://circleci.com/blog/what-is-end-to-end-testing/), testes regressivos, testes de API. <br>
 Tenho experiência com as ferramentas de automação [Selenium](https://www.selenium.dev/documentation/webdriver/), [Cypress](https://www.cypress.io/), [RestSharp](https://restsharp.dev/) e [Rest Assured](https://rest-assured.io/) e possuo habilidades de programação em [Java](https://www.java.com/en/), [C#](https://dotnet.microsoft.com/pt-br/languages/csharp) e [JavaScript](https://www.w3schools.com/js/), criando scripts automatizados que cobrem diferentes cenários em diferentes níveis, como web e API, e garantem a integridade do sistema plataformas.
+
+Postman    | Git      | SQL Server   | VS Code   | Visual Studio |
+:---------:| :------: | :----------: | :-------: | :-----------: |
+<img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F5035%2F6b8f298c-c09b-48a5-9f70-a811376e63af.png" width="50" height="50"> | <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" width="50" height="50"> | <img src="https://img.utdstc.com/icon/981/2d8/9812d89705787310adf08f0edf758921b8d551e8329c8d8c5eeabf4d06b08378:200" width="50" height="50"> | <img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" width="50" height="50"> | <img src="https://img.icons8.com/color/512/visual-studio.png" width="50" height="50"> |
+
+
+<img src="" width="50" height="50">
+
+
+
 
 ## Formação acadêmica
 * Técnico em Informática com foco em programação. <br>
