@@ -15,7 +15,10 @@ Já trabalhei em grandes empresas como a Datum (alocada como terceiro para a Ren
 * [Projetos Ágeis com SCRUM - Alura](https://www.dio.me/certificate/529C74E5/share)
 * [Introdução a Behavior Driven Development (BDD) com Java - DIO](https://www.dio.me/certificate/F6B4D8B7/share)
 
-## 
+## Projetos de Automação de Testes
+
+
+## Projetos de Testes Manuais
   
 
   
