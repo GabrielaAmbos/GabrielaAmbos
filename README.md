@@ -17,6 +17,14 @@ Já trabalhei em grandes empresas como a Datum (alocada como terceiro para a Ren
 
 ## Projetos de Automação de Testes
 
+* [Desafio Automação Go Rest Api](https://github.com/GabrielaAmbos/desafio-automacao-go-rest-api): Projeto de automação de API utilizando C#.
+* [Desafio Cadastro de Usuários](https://github.com/GabrielaAmbos/desafio-cadastro-de-usuarios): Projeto de automação Web utilizando C# e Selenium
+* [Desafio Automation Practice](https://github.com/GabrielaAmbos/desafio-automacao-automationpractice): Projeto de automação Web utilizando Java e Selenium
+* [Desafio Automação Fake Store API](https://github.com/GabrielaAmbos/automacao-fake-store-api): Projeto de automação de API utilizando Cypress
+* [Desafio Automação Reqrest](https://github.com/GabrielaAmbos/desafio-automacao-reqres): Projeto de automação de API utilizando Java
+* [Desafio Automação Rest](https://github.com/GabrielaAmbos/desafio-automacao-serve-rest): Projeto de automação de API utilizando C#
+* [Desafio Automação Busca CEP Correios](https://github.com/GabrielaAmbos/desafio-automacao-busca-cep-correios): Projeto de automação Web utilizando C#, Selenium e BDD
+* [Desafio Automação Trivago](https://github.com/GabrielaAmbos/desafio-automacao-trivago): Projeto de automação Web utilizando Java, Selenium e BDD
 
 ## Projetos de Testes Manuais
   
