@@ -16,7 +16,6 @@ Já trabalhei em grandes empresas como a Datum (alocada como terceiro para a Ren
 * [Introdução a Behavior Driven Development (BDD) com Java - DIO](https://www.dio.me/certificate/F6B4D8B7/share)
 
 ## Projetos de Automação de Testes
-
 * [Desafio Automação Go Rest Api](https://github.com/GabrielaAmbos/desafio-automacao-go-rest-api): Projeto de automação de API utilizando C#.
 * [Desafio Cadastro de Usuários](https://github.com/GabrielaAmbos/desafio-cadastro-de-usuarios): Projeto de automação Web utilizando C# e Selenium
 * [Desafio Automation Practice](https://github.com/GabrielaAmbos/desafio-automacao-automationpractice): Projeto de automação Web utilizando Java e Selenium
@@ -29,12 +28,16 @@ Já trabalhei em grandes empresas como a Datum (alocada como terceiro para a Ren
 ## Projetos de Testes Manuais
   
 
+## Contato
+* [Linkedin](https://linkedin.com/in/gabriela-ambos/)
+* [E-mail](mailto:gabrielaambos15@gmail.com)
+* [Telefone]()
   
 <h3 align="left">Connect with me:  
 </div>
 
 <p align="left">
-  <a href="https://linkedin.com/in/gabriela-ambos/" target="blank">
+  <a href="" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriela-ambos/" width="40" height="30" align="center" /> </a>
   <a href="https://instagram.com/gabrielaambos" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielaambos" width="40" height="30" align="center" /> </a> 
