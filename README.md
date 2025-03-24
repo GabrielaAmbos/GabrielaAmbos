@@ -2,7 +2,7 @@
 
 Olá, meu nome é Gabriela Ambos <br>
 Sou da região metropolitana de Porto Alegre, no Rio Grande do Sul e trabalho a 6 anos como analista de qualidade. <br>
-Já trabalhei em grandes empresas como a [Datum](https://datumit.com/) (alocada como terceiro para as [Lojas Renner S.A.](https://www.lojasrennersa.com.br/)), [Meta](https://meta.com.br/) e [Aquiris](https://www.aquiris.com.br/) (Atual [Epic Games](https://www.epicgames.com/site/pt-BR/home)). Atualmente, trabalho remotamente para o [Grupo Casas Bahia](https://ri.grupocasasbahia.com.br/).
+Já trabalhei em grandes empresas como a [Datum](https://datumit.com/) (alocada como terceiro para as [Lojas Renner S.A.](https://www.lojasrennersa.com.br/)), [Meta](https://meta.com.br/) e [Aquiris](https://www.aquiris.com.br/) (Comprada pela [Epic Games](https://www.epicgames.com/site/pt-BR/home)). Atualmente, trabalho remotamente para o [Grupo Casas Bahia](https://ri.grupocasasbahia.com.br/).
 
 ## Linguagens e Ferramentas
 Possuo experiência em análise de requisitos, escrita de cenários de teste em [BDD](https://www.objective.com.br/insights/bdd/), [testes end-to-end](https://circleci.com/blog/what-is-end-to-end-testing/), testes regressivos, testes de API. <br>
