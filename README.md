@@ -12,12 +12,6 @@ Postman    | Git      | SQL Server   | VS Code   | Visual Studio | Intellij | Mo
 :---------:| :------: | :----------: | :-------: | :-----------: | :-------:| :-------:| :-----: | :-------: |
 <img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F5035%2F6b8f298c-c09b-48a5-9f70-a811376e63af.png" width="50" height="50"> | <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" width="50" height="50"> | <img src="https://img.utdstc.com/icon/981/2d8/9812d89705787310adf08f0edf758921b8d551e8329c8d8c5eeabf4d06b08378:200" width="50" height="50"> | <img src="https://cdn.iconscout.com/icon/free/png-256/free-visual-studio-code-logo-icon-download-in-svg-png-gif-file-formats--vs-editore-coding-brand-filled-line-pack-logos-icons-2724650.png" width="50" height="50"> | <img src="https://img.icons8.com/color/512/visual-studio.png" width="50" height="50"> | <img src="https://osbsoftware.com.br/upload/produto/intellij_idea_icon.png" width="50" height="50"> | <img src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_logo_icon_146424.png" width="50" height="50"> | <img src="https://docs.cypress.io/img/logo/cypress-logo-circle-dark.png" width="50" height="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="50" height="50">
 
-
-<img src="" width="50" height="50">
-
-
-
-
 ## Formação acadêmica
 * Técnico em Informática com foco em programação. <br>
 * Graduanda em Análise e Desenvolvimento de Sistemas.
