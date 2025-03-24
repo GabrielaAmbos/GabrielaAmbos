@@ -4,7 +4,8 @@ Sou da região metropolitana de Porto Alegre, no Rio Grande do Sul e trabalho a 
 Já trabalhei em grandes empresas como a Datum (alocada como terceiro para a Renner), Meta e Aquiris (Atual Epic Games). Atualmente, trabalho remotamente para o Grupo Casas Bahia.
 
 ## Habilidades
-
+Possuo experiência em análise de requisitos, escrita de cenários de teste em BDD, testes end-to-end, testes regressivos, testes de API. <br>
+Tenho experiência com as ferramentas de automação Selenium, Cypress, RestSharp e Rest Assured e possuo habilidades de programação em Java, C# e JavaScript, criando scripts automatizados que cobrem diferentes cenários em diferentes níveis, como web e API, e garantem a integridade do sistema plataformas.
 
 ## Formação acadêmica
 * Técnico em Informática com foco em programação. <br>
