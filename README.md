@@ -1,8 +1,10 @@
 # My portfolio as QA 
-
 Olá, meu nome é Gabriela Ambos. <br>
 Sou da região metropolitana de Porto Alegre, no Rio Grande do Sul e trabalho a 6 anos como analista de qualidade. <br>
 Já trabalhei em grandes empresas como a Datum (alocada como terceiro para a Renner), Meta e Aquiris (Atual Epic Games). Atualmente, trabalho remotamente para o Grupo Casas Bahia.
+
+## Habilidades
+
 
 ## Formação acadêmica
 * Técnico em Informática com foco em programação. <br>
@@ -15,13 +17,14 @@ Já trabalhei em grandes empresas como a Datum (alocada como terceiro para a Ren
 * [Projetos Ágeis com SCRUM - Alura](https://www.dio.me/certificate/529C74E5/share)
 * [Introdução a Behavior Driven Development (BDD) com Java - DIO](https://www.dio.me/certificate/F6B4D8B7/share)
 
+
 ## Projetos de Automação de Testes
-* [Desafio Automação Go Rest Api](https://github.com/GabrielaAmbos/desafio-automacao-go-rest-api): Projeto de automação de API utilizando C#.
+* [Desafio Automação Go Rest Api](https://github.com/GabrielaAmbos/desafio-automacao-go-rest-api): Projeto de automação de API utilizando C# e RestSharp.
 * [Desafio Cadastro de Usuários](https://github.com/GabrielaAmbos/desafio-cadastro-de-usuarios): Projeto de automação Web utilizando C# e Selenium
 * [Desafio Automation Practice](https://github.com/GabrielaAmbos/desafio-automacao-automationpractice): Projeto de automação Web utilizando Java e Selenium
 * [Desafio Automação Fake Store API](https://github.com/GabrielaAmbos/automacao-fake-store-api): Projeto de automação de API utilizando Cypress
-* [Desafio Automação Reqrest](https://github.com/GabrielaAmbos/desafio-automacao-reqres): Projeto de automação de API utilizando Java
-* [Desafio Automação Rest](https://github.com/GabrielaAmbos/desafio-automacao-serve-rest): Projeto de automação de API utilizando C#
+* [Desafio Automação Reqrest](https://github.com/GabrielaAmbos/desafio-automacao-reqres): Projeto de automação de API utilizando Java e RestAssurance
+* [Desafio Automação Rest](https://github.com/GabrielaAmbos/desafio-automacao-serve-rest): Projeto de automação de API utilizando C# e RestSharp
 * [Desafio Automação Busca CEP Correios](https://github.com/GabrielaAmbos/desafio-automacao-busca-cep-correios): Projeto de automação Web utilizando C#, Selenium e BDD
 * [Desafio Automação Trivago](https://github.com/GabrielaAmbos/desafio-automacao-trivago): Projeto de automação Web utilizando Java, Selenium e BDD
 
@@ -31,20 +34,9 @@ Já trabalhei em grandes empresas como a Datum (alocada como terceiro para a Ren
 ## Contato
 * [Linkedin](https://linkedin.com/in/gabriela-ambos/)
 * [E-mail](mailto:gabrielaambos15@gmail.com)
-* [Telefone]()
-  
-<h3 align="left">Connect with me:  
-</div>
+* [Telefone](https://wa.me/5551997978176)
 
-<p align="left">
-  <a href="" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriela-ambos/" width="40" height="30" align="center" /> </a>
-  <a href="https://instagram.com/gabrielaambos" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielaambos" width="40" height="30" align="center" /> </a> 
-  <a href="https://medium.com/@gabrielaambos" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gabrielaambos" width="40" height="30" align="center" /> </a>
-  <a href="mailto:gabrielaambos15@gmail.com">
-  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40" height="30" align="center" /> </a>
- </p>
+
 
 <h3 align="left">Languages and Tools: 
   <br> 
