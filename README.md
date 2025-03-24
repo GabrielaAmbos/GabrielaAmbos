@@ -1,11 +1,25 @@
-## My portfolio as QA <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" align="center">
+# My portfolio as QA 
 
 Olá, meu nome é Gabriela Ambos. <br>
 Sou da região metropolitana de Porto Alegre, no Rio Grande do Sul e trabalho a 6 anos como analista de qualidade. <br>
 Já trabalhei em grandes empresas como a Datum (alocada como terceiro para a Renner), Meta e Aquiris (Atual Epic Games). Atualmente, trabalho remotamente para o Grupo Casas Bahia.
 
+## Formação acadêmica
+* Técnico em Informática com foco em programação. <br>
+* Graduanda em Análise e Desenvolvimento de Sistemas.
+
+## Cursos
+* [Quality Assurance: plano de testes e gestão de bugs - Alura](https://cursos.alura.com.br/user/gabriela-ambos/course/quality-assurance-plano-testes-gestao-bugs/formalCertificate)
+* [Selenium: Sua webapp testada de ponta a ponta em java - Alura](https://cursos.alura.com.br/user/gabrielaambos/course/selenium/formalCertificate)
+* [Automating your API tests with REST Assured - DIO](https://testautomationu.applitools.com/certificate/?id=4a0881f0)
+* [Projetos Ágeis com SCRUM - Alura](https://www.dio.me/certificate/529C74E5/share)
+* [Introdução a Behavior Driven Development (BDD) com Java - DIO](https://www.dio.me/certificate/F6B4D8B7/share)
+
+## 
   
-<h3 align="left">Connect with me:  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30" align="center" />
+
+  
+<h3 align="left">Connect with me:  
 </div>
 
 <p align="left">
@@ -18,8 +32,7 @@ Já trabalhei em grandes empresas como a Datum (alocada como terceiro para a Ren
   <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40" height="30" align="center" /> </a>
  </p>
 
-<h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/> 
-<p align="left">
+<h3 align="left">Languages and Tools: 
   <br> 
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="30" /> </a> 
   <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress"width="40" height="30" /> </a> 
