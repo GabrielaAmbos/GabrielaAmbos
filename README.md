@@ -14,7 +14,7 @@
 ## <img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/clicker-do-mouse.png" width="30" height="30"> My portfolio:
 
 
-<a href="https://github.com/user-attachments/assets/8f18e131-1b9b-4a40-bd4a-9d74dc49b5b5">
+<a href="https://github.com/GabrielaAmbos/portifolio-qa-ptbr">
 <img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/click-gif.gif"> </a>
 
 ## <img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/clicker-do-mouse.png" width="30" height="30"> Contacte-me on:
