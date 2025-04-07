@@ -8,6 +8,8 @@ Studying to become an even better professional. 💻📚🚀 <br>
   <a href="https://www.linkedin.com/in/gabrielaambos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabrielaambos15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gabrielaambos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://linktr.ee/gabrielaambos" target="_blank"><img src="https://img.shields.io/badge/-LinkTree-%acdc5c?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+  
 
 ##
 
@@ -28,10 +30,9 @@ Studying to become an even better professional. 💻📚🚀 <br>
 <a href="https://github.com/GabrielaAmbos/portifolio-qa-ptbr">
 <img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/click-gif.gif"> </a>
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30" height="30"> Contacte-me on:
+## <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30" height="30">
 
-<a href="https://linkedin.com/in/gabriela-ambos/">
-<img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/linkedin-icon-2.svg" width="40" height="40"> </a>   <a href="https://linktr.ee/gabrielaambos"> <img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/linktree-2.svg" width="40" height="40"> </a>   <a href="mailto:gabrielaambos15@gmail.com"> <img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/o-email.png" width="40" height="40"> </a>
+<a href="https://linktr.ee/gabrielaambos"> <img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/linktree-2.svg" width="40" height="40"> </a>  
 
 
 
