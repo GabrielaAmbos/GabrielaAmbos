@@ -9,6 +9,10 @@ Studying to become an even better professional. 💻📚🚀 <br>
   <a href = "mailto:gabrielaambos15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gabrielaambos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://linktr.ee/gabrielaambos" target="_blank"><img src="https://img.shields.io/badge/-LinkTree-%acdc5c?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/GabrielaAmbos/portfolio-qa-pt-br" target="_blank"><img src="https://img.shields.io/badge/-portfolio?style=for-the-badge&logo=%E2%98%AF%EF%B8%8E&logoColor=white&label=Portfolio%20Pt-Br&labelColor=AC58FA&color=AC58FA" target="_blank"></a>
+
+  
+
 
 ##
 ### About me: 
@@ -19,19 +23,15 @@ Studying to become an even better professional. 💻📚🚀 <br>
 ##
 
 ### Technical skills:
-<img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/pata.png" width="20" height="20"> Selenium, Cypress, Rest Sharp and Rest Assured <br>
-<img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/pata.png" width="20" height="20"> Java, C# and JavaScript <br>
-<img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/pata.png" width="20" height="20"> Accessibility Testing <br>
-<img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/pata.png" width="20" height="20"> Localization Testing <br>
-<img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/pata.png" width="20" height="20"> End-to-End Testing <br>
-<img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/pata.png" width="20" height="20"> Bug Mapping <br>
 
+<img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/pata.png" width="20" height="20"> Selenium | Cypress | Rest Sharp | Rest Assured <br>
+<img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/pata.png" width="20" height="20"> Java | C# | JavaScript <br>
+<img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/pata.png" width="20" height="20"> Android | iOS | Unreal | Chrome  <br>
+<img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/pata.png" width="20" height="20"> MongoDB | SQL Server | Postman  <br>
+<img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/pata.png" width="20" height="20"> BDD | Step-by-Step | API Tests | End-to-End  <br>
 
-## <img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/clicker-do-mouse.png" width="30" height="30"> My portfolio:
+##
 
-
-<a href="https://github.com/GabrielaAmbos/portifolio-qa-ptbr">
-<img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/click-gif.gif"> </a>
 
 
 
