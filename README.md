@@ -1,6 +1,17 @@
-# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/> Welcome to my profile! 
+# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/> Hi, I`m Gabriela! 
 
-### I'm Gabi, a QA Analyst from Brazil. I work with:
+### QA Analyst | Automation Test | A11y | Game Tester
+
+Passionate about software quality. ❤️
+Studying to become an even better professional. 💻📚🚀 <br>
+
+  <a href="https://www.linkedin.com/in/gabrielaambos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gabrielaambos15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/gabrielaambos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+##
+
+
 
 
 <img src="https://github.com/GabrielaAmbos/portifolio-qa-ptbr/blob/main/icons/pata.png" width="20" height="20"> Selenium, Cypress, Rest Sharp and Rest Assured <br>
