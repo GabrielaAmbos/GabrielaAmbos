@@ -28,9 +28,13 @@
 
 **Automation & Testing**
 
-<img src="https://skillicons.dev/icons?i=selenium,cypress,postman,java,cs,js&perline=8" alt="Automation tools">
-
-<img src="https://img.shields.io/badge/Rest%20Assured-43B02A?style=for-the-badge&logo=java&logoColor=white" alt="Rest Assured">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+<img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Rest%20Assured-43B02A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Rest Assured">
 <img src="https://img.shields.io/badge/RestSharp-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="RestSharp">
 <img src="https://img.shields.io/badge/BDD%20%7C%20Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="BDD">
 <img src="https://img.shields.io/badge/API%20Tests-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API Tests">
