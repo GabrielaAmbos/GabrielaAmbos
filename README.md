@@ -31,26 +31,47 @@
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
 <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/SoapUI-F26722?style=for-the-badge&logoColor=white&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjkiIGN5PSIxMiIgcj0iNyIvPjxjaXJjbGUgY3g9IjE5IiBjeT0iNiIgcj0iMy4yIi8%2BPGNpcmNsZSBjeD0iMTkuNSIgY3k9IjE2LjUiIHI9IjIuMiIvPjwvc3ZnPg%3D%3D" alt="SoapUI">
 <img src="https://img.shields.io/badge/Rest%20Assured-43B02A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Rest Assured">
 <img src="https://img.shields.io/badge/RestSharp-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="RestSharp">
 <img src="https://img.shields.io/badge/BDD%20%7C%20Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="BDD">
 <img src="https://img.shields.io/badge/API%20Tests-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API Tests">
-<img src="https://img.shields.io/badge/End--to--End-AC58FA?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="E2E">
+<img src="https://img.shields.io/badge/End--to--End%20(E2E)-AC58FA?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="E2E">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+
+**Test Management & Agile**
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
+<img src="https://img.shields.io/badge/Zephyr-2684FF?style=for-the-badge&logoColor=white&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDZoMTFhMyAzIDAgMSAwLTMtM2gyYTEgMSAwIDEgMSAxIDFIM3Yyem0wIDVoMTVhMyAzIDAgMSAwLTMtM2gyYTEgMSAwIDEgMSAxIDFIM3Yyem0wIDVoMTFhMyAzIDAgMSAxLTMgM2gyYTEgMSAwIDEgMCAxLTFIM3YtMnoiLz48L3N2Zz4%3D" alt="Zephyr">
+<img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=testrail&logoColor=white" alt="TestRail">
+<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp">
+<img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum">
+<img src="https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logoColor=white&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik00IDJoNGMxLjEgMCAyIC45IDIgMnYxNmMwIDEuMS0uOSAyLTIgMkg0Yy0xLjEgMC0yLS45LTItMlY0YzAtMS4xLjktMiAyLTJ6bTEwIDBoNGMxLjEgMCAyIC45IDIgMnYxMGMwIDEuMS0uOSAyLTIgMmgtNGMtMS4xIDAtMi0uOS0yLTJWNGMwLTEuMS45LTIgMi0yeiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMSwwKSBzY2FsZSgwLjkyKSIvPjwvc3ZnPg%3D%3D" alt="Kanban">
 
 **Platforms & Databases**
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS">
+<img src="https://img.shields.io/badge/Apple%20Platforms-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Platforms">
+<img src="https://img.shields.io/badge/Bluebird%20Devices-009DDC?style=for-the-badge&logoColor=white&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik04IDFoOGMxLjY2IDAgMyAxLjM0IDMgM3YxNmMwIDEuNjYtMS4zNCAzLTMgM0g4Yy0xLjY2IDAtMy0xLjM0LTMtM1Y0YzAtMS42NiAxLjM0LTMgMy0zem0tMSA1djExaDEwVjZIN3ptMyAxMy41YzAgLjgzLjY3IDEuNSAxLjUgMS41aDFjLjgzIDAgMS41LS42NyAxLjUtMS41UzEzLjMzIDE4IDEyLjUgMThoLTFjLS44MyAwLTEuNS42Ny0xLjUgMS41ek0xMCAzLjVjMCAuMjguMjIuNS41LjVoM2MuMjggMCAuNS0uMjIuNS0uNXMtLjIyLS41LS41LS41aC0zYy0uMjggMC0uNS4yMi0uNS41eiIvPjwvc3ZnPg%3D%3D" alt="Bluebird Devices">
 <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver">
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logoColor=white&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxQzcuMDMgMSAzIDIuNTcgMyA0LjV2MTVDMyAyMS40MyA3LjAzIDIzIDEyIDIzczktMS41NyA5LTMuNXYtMTVDMjEgMi41NyAxNi45NyAxIDEyIDF6bTAgMmM0LjQyIDAgNyAxLjE5IDcgMS41UzE2LjQyIDYgMTIgNiA1IDQuODEgNSA0LjUgNy41OCAzIDEyIDN6bTcgMTYuNWMwIC4zMS0yLjU4IDEuNS03IDEuNXMtNy0xLjE5LTctMS41di0yLjZDNi42NCAxNy45IDkuMTggMTguNSAxMiAxOC41czUuMzYtLjYgNy0xLjZ2Mi42em0wLTVjMCAuMzEtMi41OCAxLjUtNyAxLjVzLTctMS4xOS03LTEuNXYtMi42YzEuNjQgMSA0LjE4IDEuNiA3IDEuNnM1LjM2LS42IDctMS42djIuNnptMC01QzE5IDkuODEgMTYuNDIgMTEgMTIgMTFTNSA5LjgxIDUgOS41VjYuOWMxLjY0IDEgNC4xOCAxLjYgNyAxLjZzNS4zNi0uNiA3LTEuNnYyLjZ6Ii8%2BPC9zdmc%2B" alt="SQL Server">
 <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools">
+
+**AI Tools**
+
+<img src="https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logoColor=white&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAwbDIuNCA3LjJMMjIgOS42bC03LjYgMi40TDEyIDE5LjJsLTIuNC03LjJMMiA5LjZsNy42LTIuNEwxMiAwem04IDE0bDEuMiAzLjZMMjUgMTlsLTMuOCAxLjJMMjAgMjRsLTEuMi0zLjhMMTUgMTlsMy44LTEuNEwyMCAxNHoiIHRyYW5zZm9ybT0ic2NhbGUoMC45NSkiLz48L3N2Zz4%3D" alt="ChatGPT">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+<img src="https://img.shields.io/badge/Rovo-1868DB?style=for-the-badge&logo=atlassian&logoColor=white" alt="Rovo">
 
 </div>
 
