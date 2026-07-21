@@ -2,7 +2,7 @@
 
 <!-- Typing header -->
 <a href="https://github.com/GabrielaAmbos">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=AC58FA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gabriela!+%F0%9F%90%B1;QA+Analyst+%7C+Test+Automation;Accessibility+(A11y)+%7C+Game+Tester;Passionate+about+software+quality+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=AC58FA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gabriela!+%F0%9F%90%B1;QA+Analyst+%7C+Test+Automation;AI-Powered+Testing+%7C+Game+Tester;Passionate+about+software+quality+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br>
@@ -18,7 +18,7 @@
 
 - 🔍 **QA Analyst** with **6+ years** of experience in software quality
 - 🎓 Studying **Systems Analysis and Development**
-- ♿ Currently learning **Accessibility (A11y) Testing**
+- 🤖 Currently learning how to apply **AI to software quality** (AI-powered testing)
 - 🎮 Experience with **Game Testing** (Unreal, mobile and console)
 - 🐱 Passionate about cats, technology, and books
 
