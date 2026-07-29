@@ -31,12 +31,9 @@
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
 <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-<img src="https://img.shields.io/badge/SoapUI-F26722?style=for-the-badge&logoColor=white&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjkiIGN5PSIxMiIgcj0iNyIvPjxjaXJjbGUgY3g9IjE5IiBjeT0iNiIgcj0iMy4yIi8%2BPGNpcmNsZSBjeD0iMTkuNSIgY3k9IjE2LjUiIHI9IjIuMiIvPjwvc3ZnPg%3D%3D" alt="SoapUI">
 <img src="https://img.shields.io/badge/Rest%20Assured-43B02A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Rest Assured">
 <img src="https://img.shields.io/badge/RestSharp-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="RestSharp">
 <img src="https://img.shields.io/badge/BDD%20%7C%20Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="BDD">
-<img src="https://img.shields.io/badge/API%20Tests-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API Tests">
-<img src="https://img.shields.io/badge/End--to--End%20(E2E)-AC58FA?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="E2E">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -55,8 +52,6 @@
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 <img src="https://img.shields.io/badge/Apple%20Platforms-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Platforms">
-<img src="https://img.shields.io/badge/Bluebird%20Devices-009DDC?style=for-the-badge&logoColor=white&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik04IDFoOGMxLjY2IDAgMyAxLjM0IDMgM3YxNmMwIDEuNjYtMS4zNCAzLTMgM0g4Yy0xLjY2IDAtMy0xLjM0LTMtM1Y0YzAtMS42NiAxLjM0LTMgMy0zem0tMSA1djExaDEwVjZIN3ptMyAxMy41YzAgLjgzLjY3IDEuNSAxLjUgMS41aDFjLjgzIDAgMS41LS42NyAxLjUtMS41UzEzLjMzIDE4IDEyLjUgMThoLTFjLS44MyAwLTEuNS42Ny0xLjUgMS41ek0xMCAzLjVjMCAuMjguMjIuNS41LjVoM2MuMjggMCAuNS0uMjIuNS0uNXMtLjIyLS41LS41LS41aC0zYy0uMjggMC0uNS4yMi0uNS41eiIvPjwvc3ZnPg%3D%3D" alt="Bluebird Devices">
-<img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver">
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka">
