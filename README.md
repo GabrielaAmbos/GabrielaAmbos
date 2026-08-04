@@ -57,7 +57,6 @@
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logoColor=white&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxQzcuMDMgMSAzIDIuNTcgMyA0LjV2MTVDMyAyMS40MyA3LjAzIDIzIDEyIDIzczktMS41NyA5LTMuNXYtMTVDMjEgMi41NyAxNi45NyAxIDEyIDF6bTAgMmM0LjQyIDAgNyAxLjE5IDcgMS41UzE2LjQyIDYgMTIgNiA1IDQuODEgNSA0LjUgNy41OCAzIDEyIDN6bTcgMTYuNWMwIC4zMS0yLjU4IDEuNS03IDEuNXMtNy0xLjE5LTctMS41di0yLjZDNi42NCAxNy45IDkuMTggMTguNSAxMiAxOC41czUuMzYtLjYgNy0xLjZ2Mi42em0wLTVjMCAuMzEtMi41OCAxLjUtNyAxLjVzLTctMS4xOS03LTEuNXYtMi42YzEuNjQgMSA0LjE4IDEuNiA3IDEuNnM1LjM2LS42IDctMS42djIuNnptMC01QzE5IDkuODEgMTYuNDIgMTEgMTIgMTFTNSA5LjgxIDUgOS41VjYuOWMxLjY0IDEgNC4xOCAxLjYgNyAxLjZzNS4zNi0uNiA3LTEuNnYyLjZ6Ii8%2BPC9zdmc%2B" alt="SQL Server">
 <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools">
 
