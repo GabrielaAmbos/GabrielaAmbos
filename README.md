@@ -95,8 +95,6 @@
 
 <div align="center">
 
-<a href="https://psnprofiles.com/gabriela_ambos" target="_blank"><img src="https://card.psnprofiles.com/2/gabriela_ambos.png" alt="PSN trophy card"></a>
-
 <a href="https://psnprofiles.com/gabriela_ambos" target="_blank"><img src="https://img.shields.io/badge/-PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation"></a>
 <img src="https://img.shields.io/badge/Nintendo%20%7C%20SW--8585--0435--3215-E60012?style=for-the-badge&logoColor=white&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPk5pbnRlbmRvIFN3aXRjaDwvdGl0bGU%2BPHBhdGggZD0iTTE0LjE3NiAyNGgzLjY3NGMzLjM3NiAwIDYuMTUtMi43NzQgNi4xNS02LjE1VjYuMTVDMjQgMi43NzUgMjEuMjI2IDAgMTcuODUgMEgxNC4xYy0uMDc0IDAtLjE1LjA3NC0uMTUuMTV2MjMuN2MtLjAwMS4wNzYuMDc1LjE1LjIyNi4xNXptNC41NzQtMTMuMTk5YzEuMzUxIDAgMi4zOTkgMS4xMjUgMi4zOTkgMi4zOTggMCAxLjM1Mi0xLjEyNSAyLjQtMi4zOTkgMi40LTEuMzUgMC0yLjQtMS4wNDktMi40LTIuNC0uMDc1LTEuMzQ5IDEuMDUtMi4zOTggMi40LTIuMzk4ek0xMS40IDBINi4xNUMyLjc3NSAwIDAgMi43NzUgMCA2LjE1djExLjdDMCAyMS4yMjYgMi43NzUgMjQgNi4xNSAyNGg1LjI1Yy4wNzQgMCAuMTUtLjA3NC4xNS0uMTQ5Vi4xNWMuMDAxLS4wNzYtLjA3NS0uMTUtLjE1LS4xNXpNOS42NzYgMjIuMDUxSDYuMTVjLTIuMzI2IDAtNC4yMDEtMS44NzUtNC4yMDEtNC4yMDFWNi4xNWMwLTIuMzI2IDEuODc1LTQuMjAxIDQuMjAxLTQuMjAxSDkuNmwuMDc2IDIwLjEwMnpNMy43NSA3LjE5OWMwIDEuMjc1Ljk3NSAyLjI1IDIuMjUgMi4yNXMyLjI1LS45NzUgMi4yNS0yLjI1YzAtMS4yNzMtLjk3NS0yLjI1LTIuMjUtMi4yNXMtMi4yNS45NzctMi4yNSAyLjI1eiIvPjwvc3ZnPg%3D%3D" alt="Nintendo Switch friend code">
 
