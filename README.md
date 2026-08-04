@@ -42,6 +42,7 @@
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
+<img src="https://img.shields.io/badge/VSTS%20%7C%20Azure%20DevOps-0078D7?style=for-the-badge&logoColor=white&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkF6dXJlIERldk9wczwvdGl0bGU%2BPHBhdGggZD0iTTAgOC44NzdMMi4yNDcgNS45MWw4LjQwNS0zLjQxNlYuMDIybDcuMzcgNS4zOTNMMi45NjYgOC4zMzh2OC4yMjVMMCAxNS43MDd6bTI0LTQuNDV2MTQuNjUxbC01Ljc1MyA0LjkuMDA1LS4wMDItOS4zMDMtMy4wNTd2My4wNTZsLTUuOTc4LTcuNDE2IDE1LjA1NyAxLjc5OFY1LjQxNXoiLz48L3N2Zz4%3D" alt="VSTS / Azure DevOps">
 <img src="https://img.shields.io/badge/Zephyr-2684FF?style=for-the-badge&logoColor=white&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDZoMTFhMyAzIDAgMSAwLTMtM2gyYTEgMSAwIDEgMSAxIDFIM3Yyem0wIDVoMTVhMyAzIDAgMSAwLTMtM2gyYTEgMSAwIDEgMSAxIDFIM3Yyem0wIDVoMTFhMyAzIDAgMSAxLTMgM2gyYTEgMSAwIDEgMCAxLTFIM3YtMnoiLz48L3N2Zz4%3D" alt="Zephyr">
 <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=testrail&logoColor=white" alt="TestRail">
 <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp">
