@@ -82,8 +82,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielaAmbos&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielaAmbos&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top languages">
+<img height="170" src="https://github-readme-stats.zohan.tech/api?username=GabrielaAmbos&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
+<img height="170" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=GabrielaAmbos&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top languages">
 
 <img src="https://streak-stats.vercel.app?user=GabrielaAmbos&theme=midnight-purple&hide_border=true" alt="GitHub streak">
 
