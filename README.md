@@ -1,4 +1,4 @@
-<h1 align="center"><img src="assets/icons/cat.svg" width="30" height="30" align="middle" alt="Pink line-art cat"> Gabriela Ambos</h1>
+<h1 align="center"><img src="assets/icons/brand-github.svg" width="20" height="20" align="middle" alt="GitHub Octocat"> Gabriela Ambos</h1>
 
 <p align="center">
   <img src="assets/icons/qa-engineer.svg" width="112" height="24" alt="QA Engineer"><br>
@@ -21,34 +21,46 @@
 
 <p>My experience includes <strong>functional, exploratory, regression, and API testing</strong> across Web applications and games. I work with <strong>business rules</strong>, <strong>system integrations</strong>, and <strong>test automation</strong> using Cypress and Selenium.</p>
 
+<hr>
+
 <h2><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> How I Work</h2>
 
-<p><img src="assets/icons/compass.svg" width="22" height="22" align="middle" alt=""> <strong>01 — Understanding</strong><br>Requirements, functionalities, and business rules.</p>
+<p><img src="assets/icons/compass.svg" width="24" height="24" align="middle" alt=""> <strong>01 — Understanding</strong><br><br>Requirements, functionalities, and business rules.</p>
 
-<p><img src="assets/icons/test-pipe.svg" width="22" height="22" align="middle" alt=""> <strong>02 — Testing</strong><br>Functional, API, regression, and automated testing.</p>
+<p><img src="assets/icons/test-pipe.svg" width="24" height="24" align="middle" alt=""> <strong>02 — Testing</strong><br><br>Functional, API, regression, and automated testing.</p>
 
-<p><img src="assets/icons/search.svg" width="22" height="22" align="middle" alt=""> <strong>03 — Investigation</strong><br>Analysis of failures, data, integrations, and test evidence.</p>
+<p><img src="assets/icons/search.svg" width="24" height="24" align="middle" alt=""> <strong>03 — Investigation</strong><br><br>Analysis of failures, data, integrations, and test evidence.</p>
+
+<hr>
 
 <h2><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> Technical Skills</h2>
 
-<h3><img src="assets/icons/robot.svg" width="18" height="18" align="middle" alt=""> Test Automation</h3>
+<h3><img src="assets/icons/robot.svg" width="20" height="20" align="middle" alt=""> Test Automation</h3>
 <p>Cypress · Selenium WebDriver</p>
+<p align="center"><img src="assets/icons/skill-divider.svg" width="56" height="8" alt=""></p>
 
-<h3><img src="assets/icons/api.svg" width="18" height="18" align="middle" alt=""> API Testing</h3>
+<h3><img src="assets/icons/api.svg" width="20" height="20" align="middle" alt=""> API Testing</h3>
 <p>Postman · API Validation</p>
+<p align="center"><img src="assets/icons/skill-divider.svg" width="56" height="8" alt=""></p>
 
-<h3><img src="assets/icons/database.svg" width="18" height="18" align="middle" alt=""> Languages and Databases</h3>
+<h3><img src="assets/icons/database.svg" width="20" height="20" align="middle" alt=""> Languages and Databases</h3>
 <p>JavaScript · Node.js · Java · C# · SQL · PostgreSQL · SQL Server · DBeaver</p>
+<p align="center"><img src="assets/icons/skill-divider.svg" width="56" height="8" alt=""></p>
 
-<h3><img src="assets/icons/checks.svg" width="18" height="18" align="middle" alt=""> Software Quality</h3>
-<p>Functional Testing · Exploratory Testing · Regression Testing · E2E Testing · BDD/Gherkin · Risk Analysis · Defect Management</p>
+<h3><img src="assets/icons/checks.svg" width="20" height="20" align="middle" alt=""> Software Quality</h3>
+<p>Functional Testing · Exploratory Testing · Regression Testing · E2E Testing · BDD/Gherkin<br>Risk Analysis · Defect Management</p>
+<p align="center"><img src="assets/icons/skill-divider.svg" width="56" height="8" alt=""></p>
 
-<h3><img src="assets/icons/tool.svg" width="18" height="18" align="middle" alt=""> Work Tools</h3>
+<h3><img src="assets/icons/tool.svg" width="20" height="20" align="middle" alt=""> Work Tools</h3>
 <p>Jira · Zephyr · ClickUp · Azure DevOps</p>
+
+<hr>
 
 <h2><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> A Little About Me</h2>
 
 <p>I enjoy cats, technology, books, and games.</p>
+
+<hr>
 
 <h2><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> Contact</h2>
 
@@ -61,3 +73,4 @@
 </p>
 
 <!-- Icons from Tabler Icons v3.46.0 (MIT); see assets/icons/LICENSE. -->
+<!-- GitHub Octocat from Primer Octicons (MIT); see assets/icons/OCTICONS-LICENSE. -->
