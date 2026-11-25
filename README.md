@@ -21,7 +21,7 @@
 
 <p>My experience includes <strong>functional, exploratory, regression, and API testing</strong> across Web applications and games. I work with <strong>business rules</strong>, <strong>system integrations</strong>, and <strong>test automation</strong> using Cypress and Selenium.</p>
 
-<hr>
+<p align="center"><img src="assets/icons/divider.svg" width="2000" height="24" alt=""></p>
 
 <h3><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> How I Work</h3>
 
