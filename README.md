@@ -25,33 +25,33 @@
 
 <h3><img src="assets/icons/paw.svg" width="20" height="20" align="top" alt=""> How I Work <img src="assets/icons/paw.svg" width="20" height="20" align="top" alt=""></h3>
 
-<p><img src="assets/icons/compass.svg" width="24" height="24" align="middle" alt=""> <strong>01 — Understanding</strong><br><br>Requirements, functionalities, and business rules.</p>
+<p><img src="assets/icons/compass.svg" width="24" height="24" align="top" alt=""> <strong>01 — Understanding</strong><br><br>Requirements, functionalities, and business rules.</p>
 
-<p><img src="assets/icons/test-pipe.svg" width="24" height="24" align="middle" alt=""> <strong>02 — Testing</strong><br><br>Functional, API, regression, and automated testing.</p>
+<p><img src="assets/icons/test-pipe.svg" width="24" height="24" align="top" alt=""> <strong>02 — Testing</strong><br><br>Functional, API, regression, and automated testing.</p>
 
-<p><img src="assets/icons/search.svg" width="24" height="24" align="middle" alt=""> <strong>03 — Investigation</strong><br><br>Analysis of failures, data, integrations, and test evidence.</p>
+<p><img src="assets/icons/search.svg" width="24" height="24" align="top" alt=""> <strong>03 — Investigation</strong><br><br>Analysis of failures, data, integrations, and test evidence.</p>
 
 <p align="center"><img src="assets/icons/divider.svg" width="2000" height="24" alt=""></p>
 
 <h3><img src="assets/icons/paw.svg" width="20" height="20" align="top" alt=""> Technical Skills <img src="assets/icons/paw.svg" width="20" height="20" align="top" alt=""></h3>
 
-<h4><img src="assets/icons/robot.svg" width="20" height="20" align="middle" alt=""> Test Automation</h4>
+<h4><img src="assets/icons/robot.svg" width="20" height="20" align="top" alt=""> Test Automation</h4>
 <p>Cypress · Selenium WebDriver</p>
 <p align="center"><img src="assets/icons/skill-divider.svg" width="100%" height="16" alt=""></p>
 
-<h4><img src="assets/icons/api.svg" width="20" height="20" align="middle" alt=""> API Testing</h4>
+<h4><img src="assets/icons/api.svg" width="20" height="20" align="top" alt=""> API Testing</h4>
 <p>Postman · API Validation</p>
 <p align="center"><img src="assets/icons/skill-divider.svg" width="100%" height="16" alt=""></p>
 
-<h4><img src="assets/icons/database.svg" width="20" height="20" align="middle" alt=""> Languages and Databases</h4>
+<h4><img src="assets/icons/database.svg" width="20" height="20" align="top" alt=""> Languages and Databases</h4>
 <p>JavaScript · Node.js · Java · C# · SQL · PostgreSQL · SQL Server · DBeaver</p>
 <p align="center"><img src="assets/icons/skill-divider.svg" width="100%" height="16" alt=""></p>
 
-<h4><img src="assets/icons/checks.svg" width="20" height="20" align="middle" alt=""> Software Quality</h4>
+<h4><img src="assets/icons/checks.svg" width="20" height="20" align="top" alt=""> Software Quality</h4>
 <p>Functional Testing · Exploratory Testing · Regression Testing · E2E Testing · BDD/Gherkin<br>Risk Analysis · Defect Management</p>
 <p align="center"><img src="assets/icons/skill-divider.svg" width="100%" height="16" alt=""></p>
 
-<h4><img src="assets/icons/tool.svg" width="20" height="20" align="middle" alt=""> Work Tools</h4>
+<h4><img src="assets/icons/tool.svg" width="20" height="20" align="top" alt=""> Work Tools</h4>
 <p>Jira · Zephyr · ClickUp · Azure DevOps</p>
 
 <p align="center"><img src="assets/icons/divider.svg" width="2000" height="24" alt=""></p>
