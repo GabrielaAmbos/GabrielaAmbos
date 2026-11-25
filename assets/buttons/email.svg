@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="36" viewBox="0 0 120 36">
+  <rect width="120" height="36" rx="7" fill="#bd6488" />
+  <g fill="none" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 12h12a2 2 0 0 1 2 2v8a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-8a2 2 0 0 1 2 -2Z" />
+    <path d="m11 14 7 5 7-5" />
+  </g>
+  <text x="34" y="22.5" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600">E-mail</text>
+</svg>

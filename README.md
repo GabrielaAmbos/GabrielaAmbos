@@ -6,11 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://gabrielaambos.github.io/portfolio-qa/"><img src="assets/icons/world-www.svg" width="16" height="16" align="middle" alt=""> Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/gabrielaambos/"><img src="assets/icons/brand-linkedin.svg" width="16" height="16" align="middle" alt=""> LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:gabrielaambos15@gmail.com"><img src="assets/icons/mail.svg" width="16" height="16" align="middle" alt=""> E-mail</a>
+  <a href="https://gabrielaambos.github.io/portfolio-qa/"><img src="assets/buttons/portfolio.svg" width="120" height="36" alt="Portfolio"></a>&ensp;
+  <a href="https://www.linkedin.com/in/gabrielaambos/"><img src="assets/buttons/linkedin.svg" width="120" height="36" alt="LinkedIn"></a>&ensp;
+  <a href="mailto:gabrielaambos15@gmail.com"><img src="assets/buttons/email.svg" width="120" height="36" alt="E-mail"></a>
 </p>
 
 <p align="center"><img src="assets/icons/divider.svg" width="2000" height="24" alt=""></p>
@@ -65,11 +63,9 @@
 <h3><img src="assets/icons/paw.svg" width="20" height="20" align="top" alt=""> Contact <img src="assets/icons/paw.svg" width="20" height="20" align="top" alt=""></h3>
 
 <p>
-  <a href="https://gabrielaambos.github.io/portfolio-qa/"><img src="assets/icons/world-www.svg" width="16" height="16" align="middle" alt=""> Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/gabrielaambos/"><img src="assets/icons/brand-linkedin.svg" width="16" height="16" align="middle" alt=""> LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:gabrielaambos15@gmail.com"><img src="assets/icons/mail.svg" width="16" height="16" align="middle" alt=""> E-mail</a>
+  <a href="https://gabrielaambos.github.io/portfolio-qa/"><img src="assets/buttons/portfolio.svg" width="120" height="36" alt="Portfolio"></a>&ensp;
+  <a href="https://www.linkedin.com/in/gabrielaambos/"><img src="assets/buttons/linkedin.svg" width="120" height="36" alt="LinkedIn"></a>&ensp;
+  <a href="mailto:gabrielaambos15@gmail.com"><img src="assets/buttons/email.svg" width="120" height="36" alt="E-mail"></a>
 </p>
 
 <!-- Icons from Tabler Icons v3.46.0 (MIT); see assets/icons/LICENSE. -->
