@@ -31,7 +31,7 @@
 
 <p><img src="assets/icons/search.svg" width="24" height="24" align="middle" alt=""> <strong>03 — Investigation</strong><br><br>Analysis of failures, data, integrations, and test evidence.</p>
 
-<hr>
+<p align="center"><img src="assets/icons/divider.svg" width="2000" height="24" alt=""></p>
 
 <h3><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> Technical Skills</h3>
 
@@ -54,13 +54,13 @@
 <h4><img src="assets/icons/tool.svg" width="20" height="20" align="middle" alt=""> Work Tools</h4>
 <p>Jira · Zephyr · ClickUp · Azure DevOps</p>
 
-<hr>
+<p align="center"><img src="assets/icons/divider.svg" width="2000" height="24" alt=""></p>
 
 <h3><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> A Little About Me</h3>
 
 <p>I enjoy cats, technology, books, and games.</p>
 
-<hr>
+<p align="center"><img src="assets/icons/divider.svg" width="2000" height="24" alt=""></p>
 
 <h3><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> Contact</h3>
 
