@@ -15,7 +15,7 @@
 
 <p align="center"><img src="assets/icons/divider.svg" width="240" height="14" alt=""></p>
 
-<h2><img src="assets/icons/cat.svg" width="20" height="20" align="middle" alt=""> About me</h2>
+<h3><img src="assets/icons/cat.svg" width="20" height="20" align="middle" alt=""> About me</h3>
 
 <p>I'm a <strong>QA Engineer</strong> working with <strong>software quality</strong> across financial services, retail, e-commerce, education, and gaming products.</p>
 
@@ -23,7 +23,7 @@
 
 <hr>
 
-<h2><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> How I Work</h2>
+<h3><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> How I Work</h3>
 
 <p><img src="assets/icons/compass.svg" width="24" height="24" align="middle" alt=""> <strong>01 — Understanding</strong><br><br>Requirements, functionalities, and business rules.</p>
 
@@ -33,36 +33,36 @@
 
 <hr>
 
-<h2><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> Technical Skills</h2>
+<h3><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> Technical Skills</h3>
 
-<h3><img src="assets/icons/robot.svg" width="20" height="20" align="middle" alt=""> Test Automation</h3>
+<h4><img src="assets/icons/robot.svg" width="20" height="20" align="middle" alt=""> Test Automation</h4>
 <p>Cypress · Selenium WebDriver</p>
 <p align="center"><img src="assets/icons/skill-divider.svg" width="100%" height="16" alt=""></p>
 
-<h3><img src="assets/icons/api.svg" width="20" height="20" align="middle" alt=""> API Testing</h3>
+<h4><img src="assets/icons/api.svg" width="20" height="20" align="middle" alt=""> API Testing</h4>
 <p>Postman · API Validation</p>
 <p align="center"><img src="assets/icons/skill-divider.svg" width="100%" height="16" alt=""></p>
 
-<h3><img src="assets/icons/database.svg" width="20" height="20" align="middle" alt=""> Languages and Databases</h3>
+<h4><img src="assets/icons/database.svg" width="20" height="20" align="middle" alt=""> Languages and Databases</h4>
 <p>JavaScript · Node.js · Java · C# · SQL · PostgreSQL · SQL Server · DBeaver</p>
 <p align="center"><img src="assets/icons/skill-divider.svg" width="100%" height="16" alt=""></p>
 
-<h3><img src="assets/icons/checks.svg" width="20" height="20" align="middle" alt=""> Software Quality</h3>
+<h4><img src="assets/icons/checks.svg" width="20" height="20" align="middle" alt=""> Software Quality</h4>
 <p>Functional Testing · Exploratory Testing · Regression Testing · E2E Testing · BDD/Gherkin<br>Risk Analysis · Defect Management</p>
 <p align="center"><img src="assets/icons/skill-divider.svg" width="100%" height="16" alt=""></p>
 
-<h3><img src="assets/icons/tool.svg" width="20" height="20" align="middle" alt=""> Work Tools</h3>
+<h4><img src="assets/icons/tool.svg" width="20" height="20" align="middle" alt=""> Work Tools</h4>
 <p>Jira · Zephyr · ClickUp · Azure DevOps</p>
 
 <hr>
 
-<h2><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> A Little About Me</h2>
+<h3><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> A Little About Me</h3>
 
 <p>I enjoy cats, technology, books, and games.</p>
 
 <hr>
 
-<h2><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> Contact</h2>
+<h3><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> Contact</h3>
 
 <p align="center">
   <a href="https://gabrielaambos.github.io/portfolio-qa/"><img src="assets/icons/world-www.svg" width="16" height="16" align="middle" alt=""> Portfolio</a>
