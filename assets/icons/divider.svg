@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="18" viewBox="0 0 1200 18" fill="none">
-  <path d="M0 9h584m32 0h584" stroke="#bd6488" stroke-width="1.5" stroke-linecap="round" />
-  <g transform="translate(432 -2.2) scale(1.4)" fill="#bd6488">
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="24" viewBox="0 0 2000 24" fill="none">
+  <path d="M4 12h976m40 0h976" stroke="#bd6488" stroke-width="2.2" stroke-linecap="round" />
+  <g transform="translate(760 -4) scale(2)" fill="#bd6488">
     <circle cx="120" cy="3" r="2" />
     <circle cx="114" cy="6" r="2" />
     <circle cx="126" cy="6" r="2" />
