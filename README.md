@@ -37,19 +37,19 @@
 
 <h3><img src="assets/icons/robot.svg" width="20" height="20" align="middle" alt=""> Test Automation</h3>
 <p>Cypress · Selenium WebDriver</p>
-<p align="center"><img src="assets/icons/skill-divider.svg" width="56" height="8" alt=""></p>
+<p align="center"><img src="assets/icons/skill-divider.svg" width="96" height="14" alt=""></p>
 
 <h3><img src="assets/icons/api.svg" width="20" height="20" align="middle" alt=""> API Testing</h3>
 <p>Postman · API Validation</p>
-<p align="center"><img src="assets/icons/skill-divider.svg" width="56" height="8" alt=""></p>
+<p align="center"><img src="assets/icons/skill-divider.svg" width="96" height="14" alt=""></p>
 
 <h3><img src="assets/icons/database.svg" width="20" height="20" align="middle" alt=""> Languages and Databases</h3>
 <p>JavaScript · Node.js · Java · C# · SQL · PostgreSQL · SQL Server · DBeaver</p>
-<p align="center"><img src="assets/icons/skill-divider.svg" width="56" height="8" alt=""></p>
+<p align="center"><img src="assets/icons/skill-divider.svg" width="96" height="14" alt=""></p>
 
 <h3><img src="assets/icons/checks.svg" width="20" height="20" align="middle" alt=""> Software Quality</h3>
 <p>Functional Testing · Exploratory Testing · Regression Testing · E2E Testing · BDD/Gherkin<br>Risk Analysis · Defect Management</p>
-<p align="center"><img src="assets/icons/skill-divider.svg" width="56" height="8" alt=""></p>
+<p align="center"><img src="assets/icons/skill-divider.svg" width="96" height="14" alt=""></p>
 
 <h3><img src="assets/icons/tool.svg" width="20" height="20" align="middle" alt=""> Work Tools</h3>
 <p>Jira · Zephyr · ClickUp · Azure DevOps</p>
