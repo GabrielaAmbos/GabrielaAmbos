@@ -1,4 +1,4 @@
-<h1>Gabriela Ambos</h1>
+<h1 align="center">Gabriela Ambos</h1>
 
 <p align="center">
   <img src="assets/icons/qa-engineer.svg" width="112" height="24" alt="QA Engineer"><br>
