@@ -1,4 +1,4 @@
-<h1 align="center"><img src="assets/icons/brand-github.svg" width="20" height="20" align="middle" alt="GitHub Octocat"> Gabriela Ambos</h1>
+<h1 align="center">Gabriela Ambos</h1>
 
 <p align="center">
   <img src="assets/icons/qa-engineer.svg" width="112" height="24" alt="QA Engineer"><br>
