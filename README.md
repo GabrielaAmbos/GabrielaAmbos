@@ -1,4 +1,4 @@
-<h1 align="center">Gabriela Ambos</h1>
+<h1>Gabriela Ambos</h1>
 
 <p align="center">
   <img src="assets/icons/qa-engineer.svg" width="112" height="24" alt="QA Engineer"><br>
@@ -64,7 +64,7 @@
 
 <h3><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> Contact</h3>
 
-<p align="center">
+<p>
   <a href="https://gabrielaambos.github.io/portfolio-qa/"><img src="assets/icons/world-www.svg" width="16" height="16" align="middle" alt=""> Portfolio</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/gabrielaambos/"><img src="assets/icons/brand-linkedin.svg" width="16" height="16" align="middle" alt=""> LinkedIn</a>
