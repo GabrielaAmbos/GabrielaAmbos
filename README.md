@@ -15,7 +15,7 @@
 
 <p align="center"><img src="assets/icons/divider.svg" width="2000" height="24" alt=""></p>
 
-<h3><img src="assets/icons/cat.svg" width="20" height="20" align="middle" alt=""> About me</h3>
+<h3><img src="assets/icons/paw.svg" width="20" height="20" align="top" alt=""> About me <img src="assets/icons/paw.svg" width="20" height="20" align="top" alt=""></h3>
 
 <p>I'm a <strong>QA Engineer</strong> working with <strong>software quality</strong> across financial services, retail, e-commerce, education, and gaming products.</p>
 
@@ -23,7 +23,7 @@
 
 <p align="center"><img src="assets/icons/divider.svg" width="2000" height="24" alt=""></p>
 
-<h3><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> How I Work</h3>
+<h3><img src="assets/icons/paw.svg" width="20" height="20" align="top" alt=""> How I Work <img src="assets/icons/paw.svg" width="20" height="20" align="top" alt=""></h3>
 
 <p><img src="assets/icons/compass.svg" width="24" height="24" align="middle" alt=""> <strong>01 — Understanding</strong><br><br>Requirements, functionalities, and business rules.</p>
 
@@ -33,7 +33,7 @@
 
 <p align="center"><img src="assets/icons/divider.svg" width="2000" height="24" alt=""></p>
 
-<h3><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> Technical Skills</h3>
+<h3><img src="assets/icons/paw.svg" width="20" height="20" align="top" alt=""> Technical Skills <img src="assets/icons/paw.svg" width="20" height="20" align="top" alt=""></h3>
 
 <h4><img src="assets/icons/robot.svg" width="20" height="20" align="middle" alt=""> Test Automation</h4>
 <p>Cypress · Selenium WebDriver</p>
@@ -56,13 +56,13 @@
 
 <p align="center"><img src="assets/icons/divider.svg" width="2000" height="24" alt=""></p>
 
-<h3><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> A Little About Me</h3>
+<h3><img src="assets/icons/paw.svg" width="20" height="20" align="top" alt=""> A Little About Me <img src="assets/icons/paw.svg" width="20" height="20" align="top" alt=""></h3>
 
 <p>I enjoy cats, technology, books, and games.</p>
 
 <p align="center"><img src="assets/icons/divider.svg" width="2000" height="24" alt=""></p>
 
-<h3><img src="assets/icons/paw.svg" width="20" height="20" align="middle" alt=""> Contact</h3>
+<h3><img src="assets/icons/paw.svg" width="20" height="20" align="top" alt=""> Contact <img src="assets/icons/paw.svg" width="20" height="20" align="top" alt=""></h3>
 
 <p>
   <a href="https://gabrielaambos.github.io/portfolio-qa/"><img src="assets/icons/world-www.svg" width="16" height="16" align="middle" alt=""> Portfolio</a>
