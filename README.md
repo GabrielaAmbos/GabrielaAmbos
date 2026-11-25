@@ -13,7 +13,7 @@
   <a href="mailto:gabrielaambos15@gmail.com"><img src="assets/icons/mail.svg" width="16" height="16" align="middle" alt=""> E-mail</a>
 </p>
 
-<p align="center"><img src="assets/icons/divider.svg" width="60%" height="14" alt=""></p>
+<p align="center"><img src="assets/icons/divider.svg" width="100%" height="14" alt=""></p>
 
 <h3><img src="assets/icons/cat.svg" width="20" height="20" align="middle" alt=""> About me</h3>
 
