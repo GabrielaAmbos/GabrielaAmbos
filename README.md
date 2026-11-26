@@ -15,9 +15,7 @@
 
 <h3><img src="assets/icons/paw.svg" width="20" height="20" align="top" alt=""> About me <img src="assets/icons/paw.svg" width="20" height="20" align="top" alt=""></h3>
 
-<p>I'm a <strong>QA Engineer</strong> working with <strong>software quality</strong> across financial services, retail, e-commerce, education, and gaming products.</p>
-
-<p>My experience includes <strong>functional, exploratory, regression, and API testing</strong> across Web applications and games. I work with <strong>business rules</strong>, <strong>system integrations</strong>, and <strong>test automation</strong> using Cypress and Selenium.</p>
+<p>I'm a QA Engineer with experience in financial services, retail, e-commerce, education, and gaming. I work with functional, exploratory, regression, API, and E2E testing, test automation, and generative AI tools such as ChatGPT, Claude, GitHub Copilot, and Codex.</p>
 
 <p align="center"><img src="assets/icons/divider.svg" width="2000" height="24" alt=""></p>
 
@@ -51,6 +49,11 @@
 
 <h4><img src="assets/icons/tool.svg" width="20" height="20" align="top" alt=""> Work Tools</h4>
 <p>Jira · Zephyr · ClickUp · Azure DevOps</p>
+<p align="center"><img src="assets/icons/skill-divider.svg" width="100%" height="16" alt=""></p>
+
+<h4><img src="assets/icons/robot.svg" width="20" height="20" align="top" alt=""> Generative AI</h4>
+<p>ChatGPT · Claude · GitHub Copilot · OpenAI Codex</p>
+<p>AI-assisted test scenario creation · Code development · Business-rule analysis · Functional documentation</p>
 
 <p align="center"><img src="assets/icons/divider.svg" width="2000" height="24" alt=""></p>
 
